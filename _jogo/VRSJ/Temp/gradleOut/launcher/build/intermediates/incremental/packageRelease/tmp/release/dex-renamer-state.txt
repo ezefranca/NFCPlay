@@ -1,0 +1,4 @@
+#Thu Sep 03 20:25:11 BRT 2020
+base.0=/Users/ezefranca/Downloads/VRSJ-master/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
