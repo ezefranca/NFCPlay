@@ -1,9 +1,17 @@
+
 ## Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
-![](https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png)
-# VRNFC
+
+<p align="center">
+<img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png" width="30%" height="30%">
+</p>
+
+# NFC Play (CardBoard Upgrade)
 ### Disciplina: Laboratório 1 
 ### Professor Dr. Reinaldo Augusto de Oliveira Ramos
 
+<p align="center">
+<img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/VRNFC/master/Design/logo03.png" width="70%" height="70%">
+</p>
 
 ### Problema
 
