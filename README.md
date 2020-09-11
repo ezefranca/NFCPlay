@@ -28,4 +28,8 @@ Este trabalho propõe a utilização de uma tag NFC (*Near Field Communication*)
 
 ### Demonstração
 
-[<img src="https://img.youtube.com/vi/l8VaDQliRLA/maxresdefault.jpg" width="50%">](https://youtu.be/l8VaDQliRLA)
+<p align="center">
+  <a href="https://youtu.be/l8VaDQliRLA">
+<img class="mestrado" src="http://i3.ytimg.com/vi/l8VaDQliRLA/hqdefault.jpg" width="50%" height="50%">
+  </a>
+</p>
