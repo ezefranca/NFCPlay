@@ -22,3 +22,10 @@ Alguns modelos do [Cardboard]() V1 possuiam um botão magnético na lateral. Tod
 O modelo [V2 do Cardboard]() trocou este mecanismo por uma pequena alavanca que realiza o toque na tela.
 
 Este trabalho propõe a utilização de uma tag NFC (*Near Field Communication*) como mecanismo de entrada para o jogador. 
+
+### Solução Proposta
+
+
+### Demonstração
+
+[<img src="https://img.youtube.com/vi/l8VaDQliRLA/maxresdefault.jpg" width="50%">](https://youtu.be/l8VaDQliRLA)
