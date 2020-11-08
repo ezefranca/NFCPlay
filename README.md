@@ -13,6 +13,11 @@
 <img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/VRNFC/master/Design/logo03.png" width="70%" height="70%">
 </p>
 
+
+### Artigo
+
+O Projeto foi apresentado na [SVR 2020 – Symposium on Virtual and Augmented Reality](https://svr2020.cin.ufpe.br/) na trilha **SVR | XR Experience**. [Link para o artigo aqui](https://drive.google.com/file/d/1Pf1n3DtbQY014hEENpuTbREBpdE2jz1w/view).
+
 ### Problema
 
 A entrada do usuário (neste caso toque na tela) tem sido um problema na industria de jogos. Algumas soluções com a utlização de temporizadores (aguardar olhando algo para realizar a ação) foram propostas e vêm sendo utilizadas em diversos jogos.
