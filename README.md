@@ -17,7 +17,7 @@
 
 ### Artigo
 
-O Projeto foi apresentado na [SVR 2020 – Symposium on Virtual and Augmented Reality](https://svr2020.cin.ufpe.br/) na trilha **SVR | XR Experience**. [Link para o artigo aqui](https://drive.google.com/file/d/1Pf1n3DtbQY014hEENpuTbREBpdE2jz1w/view).
+O Projeto foi apresentado na [SVR 2020 – Symposium on Virtual and Augmented Reality](https://svr2020.cin.ufpe.br/) na trilha **SVR | XR Experience**. [Link para o artigo aqui na SBC OpenLib](https://sol.sbc.org.br/index.php/svr_estendido/article/view/12964). [DOI](https://doi.org/10.5753/svr_estendido.2020.12964)
 
 ### Problema
 
