@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using NFC;
-
+//classe que controla e manda evento para os objetos q fica olhando
 public class EventLook : MonoBehaviour
 {
     public AudioSource sound;
