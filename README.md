@@ -8,16 +8,19 @@
 
 # NFC Play (CardBoard Upgrade)
 ### Disciplina: Laboratório 1 
-### Professor Dr. Reinaldo Augusto de Oliveira Ramos
+### Professor Dr. [Reinaldo Augusto de Oliveira Ramos](https://sucupira.capes.gov.br/observatorio/detalhamento/perfis/315392)
+
+https://sucupira.capes.gov.br/observatorio/detalhamento/producoes/32419751
 
 <p align="center">
 <img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/VRNFC/master/Design/logo03.png" width="70%" height="70%">
 </p>
 
-
 ### Artigo
 
 O Projeto foi apresentado na [SVR 2020 – Symposium on Virtual and Augmented Reality](https://svr2020.cin.ufpe.br/) na trilha **SVR | XR Experience**. [Link para o artigo aqui na SBC OpenLib](https://sol.sbc.org.br/index.php/svr_estendido/article/view/12964). [DOI](https://doi.org/10.5753/svr_estendido.2020.12964)
+
+https://sucupira.capes.gov.br/observatorio/detalhamento/producoes/32419752
 
 ### Problema
 
